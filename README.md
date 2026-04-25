@@ -4,7 +4,7 @@
   <strong>Étudiant ingénieur · Full Stack & IA · En recherche stage </strong><br/>
    <!-- <strong>Étudiant ingénieur · Full Stack & IA · En recherche d'alternance </strong><br/> -->
 
-  📍 Douala, Cameroun  (IUC 3iL  · Sept. 2026)
+  📍 Douala, Cameroun  (IUC 3iL  · Juin. 2026)
     <!-- 📍 Douala, Cameroun → Limoges, France (3iL Ingénieurs · Sept. 2026) -->
 
 </p>
@@ -99,11 +99,6 @@
 
 ---
 
-### 📷 FishCam — Plateforme Vidéo Temps Réel / Real-time Video Platform
-> Plateforme de streaming vidéo avec traitement en temps réel et détection IA.  
-> Video streaming platform with real-time processing and AI detection.  
-> **Stack :** Node.js · WebSocket · PostgreSQL  
-> 🔗 [Frontend](https://github.com/Ulrichjack/FishCam_frontend) · [Backend](https://github.com/Ulrichjack/FishCamBackend)
 
 ---
 
