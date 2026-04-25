@@ -1,16 +1,122 @@
-## Hi there 👋
+<h1 align="center">👋 Bonjour, je suis Ulrich Fosso</h1>
 
-<!--
-**Ulrichjack/Ulrichjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Étudiant ingénieur · Full Stack & IA · En recherche d'alternance 🇫🇷</strong><br/>
+  📍 Douala, Cameroun → Limoges, France (3iL Ingénieurs · Sept. 2026)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>🇫🇷 Français · 🇬🇧 English</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🇫🇷 À propos / 🇬🇧 About Me
+
+**FR** — Étudiant en **4ème année de cycle ingénieur** à l'IUC, Douala. Je développe des applications full-stack avec une spécialisation en **IA et vision par ordinateur**. Mon objectif : devenir **Ingénieur Full Stack IA**.
+
+**EN** — Software engineering student in my **4th year** at IUC, Cameroon. I build full-stack applications with a focus on **AI & computer vision**. My goal: become a **Full Stack AI Engineer**.
+
+🎯 **Alternance recherchée à partir de septembre 2026 · Limoges, France (3iL Ingénieurs)**  
+🎯 **Seeking alternance contract from September 2026 · Limoges, France**
+
+---
+
+## 🛠️ Tech Stack
+
+| Domaine | Technologies |
+|---|---|
+| **Backend** | Java · Spring Boot · Python · Node.js |
+| **Frontend** | Angular · TypeScript · HTML/CSS |
+| **AI / Vision** | TensorFlow · EfficientNetV2 · Google Colab |
+| **Mobile** | Kotlin |
+| **Database** | MySQL · PostgreSQL |
+| **Tools** | Git · GitHub · IntelliJ IDEA |
+
+---
+
+## 🚀 Projets / Projects
+
+### 💰 Gestion de Paie — Payroll Management System
+> Système automatisé de calcul de salaires, génération de bulletins de paie et rapports RH.  
+> Automated payroll system with salary calculation, payslip generation and HR reports.  
+> **Stack :** Java · Spring Boot · MySQL  
+> 🔗 [Voir le projet](https://github.com/Ulrichjack)
+
+---
+
+### ✅ Correct — Correction Automatique par IA / AI Correction Tool
+> Application de correction automatique d'exercices intégrant un modèle d'intelligence artificielle.  
+> Automated exercise correction app powered by an AI model.  
+> **Stack :** Python · TensorFlow · TypeScript  
+> 🔗 [Backend](https://github.com/Ulrichjack/correct) · [Frontend](https://github.com/Ulrichjack/correct-frontend)
+
+---
+
+### 🌿 AgroNet — Détection de Maladies Agricoles / Crop Disease Detection *(En cours / In progress)*
+> Modèle de vision par ordinateur pour la détection de maladies sur les cultures, basé sur EfficientNetV2.  
+> Computer vision model for crop disease detection using EfficientNetV2.  
+> **Stack :** Python · TensorFlow · EfficientNetV2 · Google Colab
+
+---
+
+### 🚗 Prédiction de Véhicules / Vehicle Price Prediction
+> Modèle ML de prédiction de prix de véhicules déployé via interface web.  
+> ML model predicting vehicle prices, deployed with a web interface.  
+> **Stack :** Python · TensorFlow · HTML  
+> 🔗 [Backend](https://github.com/Ulrichjack/Preditiondes-vehicule-backend) · [Frontend](https://github.com/Ulrichjack/Preditiondes-vehicule-frontend)
+
+---
+
+### 🏫 Institut App — Gestion Scolaire / School Management System
+> Application web complète de gestion des étudiants, cours et notes.  
+> Full-stack web app for managing students, courses and grades.  
+> **Stack :** Java · Spring Boot · Angular · MySQL  
+> 🔗 [Backend](https://github.com/Ulrichjack/institut-app-backend) · [Frontend](https://github.com/Ulrichjack/institut-app-frontend)
+
+---
+
+### 📷 FishCam — Plateforme Vidéo Temps Réel / Real-time Video Platform
+> Plateforme de streaming vidéo avec traitement en temps réel et détection IA.  
+> Video streaming platform with real-time processing and AI detection.  
+> **Stack :** Node.js · WebSocket · PostgreSQL  
+> 🔗 [Frontend](https://github.com/Ulrichjack/FishCam_frontend) · [Backend](https://github.com/Ulrichjack/FishCamBackend)
+
+---
+
+## 🔨 En cours / Currently Working On
+
+- 🛒 **Marketplace App** — Plateforme e-commerce · Full e-commerce platform *(Spring Boot + Angular)*
+- 📦 **Stock Management App** — Gestion de stock Android *(Kotlin)*
+- 🔐 **Cybersécurité** — Fondamentaux OWASP & sécurité API
+- 🐳 **Docker** — Conteneurisation d'applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ulrichjack&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrichjack&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <strong>498 contributions in the last year</strong> 🟩
+</p>
+
+---
+
+## 📫 Contact
+
+| | |
+|---|---|
+| 📧 **Email** | jackeboyeur244@gmail.com |
+| 📍 **Localisation** | Douala 🇨🇲 → Limoges 🇫🇷 *(Sept. 2026)* |
+| 🔗 **ORCID** | [0009-0006-4681-6621](https://orcid.org/0009-0006-4681-6621) |
+
+---
+
+<p align="center">
+  <em>"Construire des choses qui résolvent de vrais problèmes. Les sécuriser. Les faire évoluer."</em><br/>
+  <em>"Build things that solve real problems. Secure them. Then scale them."</em>
+</p>
