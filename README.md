@@ -1,8 +1,12 @@
 <h1 align="center">👋 Bonjour, je suis Ulrich Fosso</h1>
 
 <p align="center">
-  <strong>Étudiant ingénieur · Full Stack & IA · En recherche d'alternance 🇫🇷</strong><br/>
-  📍 Douala, Cameroun → Limoges, France (3iL Ingénieurs · Sept. 2026)
+  <strong>Étudiant ingénieur · Full Stack & IA · En recherche stage </strong><br/>
+   <!-- <strong>Étudiant ingénieur · Full Stack & IA · En recherche d'alternance </strong><br/> -->
+
+  📍 Douala, Cameroun  (IUC 3iL  · Sept. 2026)
+    <!-- 📍 Douala, Cameroun → Limoges, France (3iL Ingénieurs · Sept. 2026) -->
+
 </p>
 
 <p align="center">
@@ -13,12 +17,14 @@
 
 ## 🇫🇷 À propos / 🇬🇧 About Me
 
-**FR** — Étudiant en **4ème année de cycle ingénieur** à l'IUC, Douala. Je développe des applications full-stack avec une spécialisation en **IA et vision par ordinateur**. Mon objectif : devenir **Ingénieur Full Stack IA**.
+**FR** — Étudiant en **3ème année de cycle ingénieur** à l'IUC, Douala. Je développe des applications full-stack avec une spécialisation en **IA et vision par ordinateur**. Mon objectif : devenir **Ingénieur Full Stack IA**.
 
 **EN** — Software engineering student in my **4th year** at IUC, Cameroon. I build full-stack applications with a focus on **AI & computer vision**. My goal: become a **Full Stack AI Engineer**.
 
-🎯 **Alternance recherchée à partir de septembre 2026 · Limoges, France (3iL Ingénieurs)**  
-🎯 **Seeking alternance contract from September 2026 · Limoges, France**
+ 🎯 **Stage recherchée à partir de juin 2026 · Douala, Cameroun (IUC  3iL )**  
+
+<!-- 🎯 **Alternance recherchée à partir de septembre 2026 · Limoges, France (3iL Ingénieurs)**  
+🎯 **Seeking alternance contract from September 2026 · Limoges, France** -->
 
 ---
 
@@ -111,7 +117,7 @@
 | | |
 |---|---|
 | 📧 **Email** | jackeboyeur244@gmail.com |
-| 📍 **Localisation** | Douala 🇨🇲 → Limoges 🇫🇷 *(Sept. 2026)* |
+| 📍 **Localisation** | Douala 🇨🇲  *(Juin. 2026)* |
 | 🔗 **ORCID** | [0009-0006-4681-6621](https://orcid.org/0009-0006-4681-6621) |
 
 ---
