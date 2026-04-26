@@ -119,10 +119,8 @@
 </p>
 
 <p align="center">
-  <strong>498 contributions in the last year</strong> 🟩
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulrichjack&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 📫 Contact
 
