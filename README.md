@@ -60,7 +60,7 @@
 
 ## 🚀 Projets / Projects
 
-### 💰 Gestion de Paie — Payroll Management System
+### 💰Gestion de Paie *(code privé — projet client)
 > Système automatisé de calcul de salaires, génération de bulletins de paie et rapports RH.  
 > Automated payroll system with salary calculation, payslip generation and HR reports.  
 > **Stack :** Java · Spring Boot · MySQL  
