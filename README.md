@@ -69,6 +69,15 @@ I'm heading toward a DevSecOps specialization, which means I care about how thin
 
 ---
 
+### ⏱️ ShopTrack — Smart Tracking System
+> Recent project focused on performance and tracking algorithms.
+
+`C++` `Algorithms` `Performance`
+
+🔗 [GitHub Repository](https://github.com/Ulrichjack/shopTrack)
+
+---
+
 ###  Correct — AI Exercise Correction
 > Web app that automatically corrects student exercises using an AI model.
 > Full-stack with a Python AI backend and TypeScript frontend.
