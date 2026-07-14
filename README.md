@@ -118,8 +118,8 @@ I'm heading toward a DevSecOps specialization, which means I care about how thin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ulrichjack&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrichjack&layout=compact&theme=dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ulrichjack&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrichjack&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 
 </div>
 
